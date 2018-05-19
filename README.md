@@ -66,4 +66,4 @@ Copyright to all contributions are retained by the original author, but must be 
 
 ## Version
 
-1.3.0-3
+1.3.0-4
